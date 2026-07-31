@@ -21,7 +21,7 @@ I handle full-stack development along with company-wide IT infrastructure — fr
 ## 📫 Reach Me
 
 - LinkedIn: [linkedin.com/in/malaz-shukri](https://www.linkedin.com/in/malaz-shukri/)
-- Email: [malazshukri.contactme@gmail.com]
+- Email: [malazshukri.contactme@gmail.com](mailto:malazshukri.contactme@gmail.com)
 
 ---
 *Open to freelance & collaboration opportunities in ERPNext/Frappe development and business automation.*
